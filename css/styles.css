@@ -12,6 +12,10 @@ a {
 body {
   background-color: #eee;
 }
+.container {
+  max-width: 767px;
+  /* height: 900px; */
+}
 
 .menu {
   background-color: lightgreen;
